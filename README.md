@@ -22,4 +22,4 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-Choqee-orange">
 </a>
 
-![Naeyoon's github](https://github-readme-stats.vercel.app/api?username=Choqee&theme=onedark&hide=stars&show_icons=true)
+![Naeyoon's github](https://github-readme-stats.vercel.app/api?username=Naeyoon&theme=onedark&hide=stars&show_icons=true)

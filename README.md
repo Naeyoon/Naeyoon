@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋I'm Naeyoon
 
 <!--
 **Naeyoon/Naeyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://t.me/Naeyoon">
+  <img src="https://img.shields.io/badge/Telegram-Naeyoon-blue">
+</a>
+<a href="https://www.notion.so/Jailbreak-Guide-3e7d096f814542a8a6531d58aca8ee05">
+  <img src="https://img.shields.io/badge/Notion-Choqee-orange">
+</a>
+
+![Naeyoon's github](https://github-readme-stats.vercel.app/api?username=Choqee&theme=onedark&hide=stars&show_icons=true)

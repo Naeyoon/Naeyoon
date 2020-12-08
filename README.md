@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 <a href="https://t.me/Naeyoon">
   <img src="https://img.shields.io/badge/Telegram-Naeyoon-blue">
 </a>
-<a href="https://www.notion.so/Jailbreak-Guide-3e7d096f814542a8a6531d58aca8ee05">
-  <img src="https://img.shields.io/badge/Notion-Choqee-orange">
-</a>
 
-![Naeyoon's github](https://github-readme-stats.vercel.app/api?username=Naeyoon&theme=onedark&hide=stars&show_icons=true)
+
+![Naeyoon's github](https://github-readme-stats.vercel.app/api?username=Naeyoon&theme=onedark&hide=stars&show_icons=true&hide_border=true)
